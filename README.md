@@ -6,7 +6,7 @@ Install
 
 $ npm install @kazihar/tiny
 
-Usage
+# Usage
 
 const tiny = require("@kazihar/tiny");
 
